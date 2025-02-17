@@ -1,2 +1,0 @@
-# MicroService_CleanArchitecture-
-Microservices_best_practices
