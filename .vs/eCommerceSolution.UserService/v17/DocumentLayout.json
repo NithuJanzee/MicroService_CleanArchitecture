@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Git\\MicroService_CleanArchitecture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{679F4211-5ABC-4757-9A8B-B5EA6352109B}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\user\\desktop\\git\\microservice_cleanarchitecture\\ecommerce.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679F4211-5ABC-4757-9A8B-B5EA6352109B}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9DBAA24-A2A0-4776-AA4A-F663CCF3CD26}|eCommerce.Core\\eCommerce.Core.csproj|c:\\users\\user\\desktop\\git\\microservice_cleanarchitecture\\ecommerce.core\\validators\\userregistorvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9DBAA24-A2A0-4776-AA4A-F663CCF3CD26}|eCommerce.Core\\eCommerce.Core.csproj|solutionrelative:ecommerce.core\\validators\\userregistorvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Git\\MicroService_CleanArchitecture\\eCommerce.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "eCommerce.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Git\\MicroService_CleanArchitecture\\eCommerce.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "eCommerce.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:59:08.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UserRegistorValidation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Git\\MicroService_CleanArchitecture\\eCommerce.Core\\Validators\\UserRegistorValidation.cs",
               "RelativeDocumentMoniker": "eCommerce.Core\\Validators\\UserRegistorValidation.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Git\\MicroService_CleanArchitecture\\eCommerce.Core\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "eCommerce.Core\\DependencyInjection.cs",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserLoginRequestValidation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Git\\MicroService_CleanArchitecture\\eCommerce.Core\\Validators\\UserLoginRequestValidation.cs",
               "RelativeDocumentMoniker": "eCommerce.Core\\Validators\\UserLoginRequestValidation.cs",
@@ -81,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "eCommerce.Core",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Git\\MicroService_CleanArchitecture\\eCommerce.Core\\eCommerce.Core.csproj",
               "RelativeDocumentMoniker": "eCommerce.Core\\eCommerce.Core.csproj",
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Git\\MicroService_CleanArchitecture\\eCommerce.API\\Program.cs",
               "RelativeDocumentMoniker": "eCommerce.API\\Program.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "eCommerce.API",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Git\\MicroService_CleanArchitecture\\eCommerce.API\\eCommerce.API.csproj",
               "RelativeDocumentMoniker": "eCommerce.API\\eCommerce.API.csproj",
